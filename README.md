@@ -16,11 +16,11 @@
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |  TBD |   TBD |
-|Tuesday |  TBD |   TBD |
+|Monday |  TBD |   TBD |TBD |
+|Tuesday |  TBD |   TBD |TBD |
 |Wednesday   |  TBD |   TBD |TBD |
-|Thursday   |  TBD |   TBD |
-|Friday    |  TBD |   TBD |
+|Thursday   |  TBD |   TBD |TBD |
+|Friday    |  TBD |   TBD |TBD |
 
 **Discussion Session**
 <br> <!--Location: TBD-->

@@ -3,24 +3,18 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
-**Lecture:** Tu/We/Th  | 1p - 2:50p | Chafee 244
+**Lecture:** Tu/We/Th  | 1p - 2:50p | Library 166
 
-<!-- **Teaching Assistants:** 
-
-* **Graduate:**  David Perrone <br>
-
-* **Undergraduate:** Sam Calise, Yemi Fasina, Matt Hogan, Nadia Sousa <br> -->
+**Teaching Assistants:** Alexandria Sampalis, Ayomide Oladele 
 
 **Office Hours Schedule**
 <!--Location: Tyler Hall ~ Third (top) Floor Lounge-->
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Monday |  TBD |   TBD |TBD |
-|Tuesday |  TBD |   TBD |TBD |
-|Wednesday   |  TBD |   TBD |TBD |
-|Thursday   |  TBD |   TBD |TBD |
-|Friday    |  TBD |   TBD |TBD |
+|Tuesday |  TBD |   10a - 12p |TBD |
+|Wednesday   |  TBD |   11a - 12p |TBD |
+|Thursday   |  TBD |   10a - 12p |TBD |
 
 **Discussion Session**
 <br> <!--Location: TBD-->
@@ -29,8 +23,8 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   TBD |  TBD |TBD | 
-|Wednesday |   TBD |  TBD |TBD | 
+|Tuesday |   TBD |  9a - 10a |TBD | 
+|Thursday |   TBD |  9a - 10a |TBD | 
 
 
 <!-- **Lab**

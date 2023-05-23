@@ -12,9 +12,9 @@
 
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
-|Tuesday |  TBD |   10a - 12p |TBD |
-|Wednesday   |  TBD |   11a - 12p |TBD |
-|Thursday   |  TBD |   10a - 12p |TBD |
+|Tuesday |  TBD |   10a - 12p | Tyler 055 |
+|Wednesday   |  TBD |   11a - 12p |Tyler 055 |
+|Thursday   |  TBD |   10a - 12p |Tyler 055 |
 
 **Discussion Session**
 <br> <!--Location: TBD-->
@@ -23,8 +23,8 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Tuesday |   TBD |  9a - 10a |TBD | 
-|Thursday |   TBD |  9a - 10a |TBD | 
+|Tuesday |   TBD |  9a - 10a |Tyler 055 | 
+|Thursday |   TBD |  9a - 10a |Tyler 055 | 
 
 
 <!-- **Lab**

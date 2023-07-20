@@ -17,6 +17,14 @@ int main()
 
     std::cout << myPt.toCord() << std::endl;
 
+    myPt++;
+
+    myPt.toCord();
+
+    Date tomorrow = today;
+
+    tomorrow.toCord();
+
 
 return 0;
 }

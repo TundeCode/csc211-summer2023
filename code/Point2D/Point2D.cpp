@@ -2,8 +2,6 @@
 #include <string>
 #include <cmath>
 
-
-
 Point::Point(){
     x = 0;
     y = 0;
@@ -15,6 +13,13 @@ Point::Point(int someX, int someY, int someZ){
     x = someX;
     y = someY;
     z = someZ;
+}
+
+Date::Date(Date &someDate){
+    this->day = someDate.getDay();
+    this->month = someDate.getMonth();
+    this->year = someDate.getYear();
+
 }
 
 //Sets the X, Y, and Z properties of a point Object
@@ -45,4 +50,8 @@ std::string Point::toCord()
 {
     std::string coords = "(" + std::to_string(x) + "," +  std::to_string(y) + "," +  std::to_string(z) + ")";
     return coords;
+}
+
+void Date::operator++(int){
+    this->year++;
 }
